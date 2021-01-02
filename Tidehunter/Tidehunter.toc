@@ -1,0 +1,4 @@
+## Interface: 30300
+## Title: Tidehunter
+## Author: Jokieh
+## Version: 0.1
